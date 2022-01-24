@@ -1,7 +1,7 @@
 {
-  "name": "onwardfox",
+  "name": "waywardfoe",
   "version": "0.1.0",
-  "homepage": "https://onwardfox.com",
+  "homepage": "https://waywardfoe.com",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
