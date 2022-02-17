@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.09734911.js",
+    "main.js": "/static/js/main.3ac6f592.js",
     "static/js/787.db0adef2.chunk.js": "/static/js/787.db0adef2.chunk.js",
     "static/media/motleyward-logo-1000.png": "/static/media/motleyward-logo-1000.3ae51472c0dbe8c619c5.png",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.09734911.js.map": "/static/js/main.09734911.js.map",
+    "main.3ac6f592.js.map": "/static/js/main.3ac6f592.js.map",
     "787.db0adef2.chunk.js.map": "/static/js/787.db0adef2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.09734911.js"
+    "static/js/main.3ac6f592.js"
   ]
 }
